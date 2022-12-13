@@ -8,6 +8,10 @@ npm install && npm start
 
 index.js
 
+#### Database
+
+SQLite 3
+
 #### Postman Documentation
 
 https://documenter.getpostman.com/view/21472841/2s8YzUwLsr
